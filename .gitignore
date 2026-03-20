@@ -1,4 +1,5 @@
 .DS_Store
+*.class
 
 # Gradle caches and build output
 .gradle/
